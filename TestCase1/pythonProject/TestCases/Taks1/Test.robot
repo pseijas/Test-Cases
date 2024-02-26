@@ -4,8 +4,8 @@ Library    SeleniumLibrary
 *** Variables ***
 ${BROWSER}          Chrome
 ${URL}              https://demo.evershop.io/
-${USERNAME}         MiUsuario1
-${EMAIL}            miusuario1@example.com
+${USERNAME}         MiUsuario2
+${EMAIL}            miusuario2@example.com
 ${PASSWORD}         MiContraseña
 
 *** Test Cases ***
